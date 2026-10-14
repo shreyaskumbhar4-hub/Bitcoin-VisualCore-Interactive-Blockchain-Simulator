@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin-VisualCore: Interactive Blockchain Simulator",
+  "description": "An interactive educational Bitcoin architecture simulator featuring real SECP256k1 cryptography, ECDSA digital signatures, dynamic mempool queue, proof-of-work mining, tamper detection, and P2P network gossip visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
